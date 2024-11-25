@@ -2,7 +2,7 @@ Hi I am Arif
 
 <!-- Banner goes here -->
 
-# H1 About Me
+# About Me
 
 I am a MERN stack developer. <br />
 I love building web apps.<br />
