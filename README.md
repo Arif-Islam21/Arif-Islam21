@@ -29,12 +29,12 @@ Hi I am Arif
 
 # :relieved: About Me
 
-### :seedling: I’m exploring: Next js and TypeScript for advanced web development <br />
+### :seedling: **I’m exploring:** Next js and TypeScript for advanced web development <br />
 
-### :wave: I’m looking to collaborate on:getting a remote job or internship <br />
+### :wave: **I’m looking to collaborate on:** getting a remote job or internship <br />
 
-### :books: I’m passionate about: Helping people learn coding and building amazing web apps. <br />
+### :books: **I’m passionate about:** Helping people learn coding and building amazing web apps. <br />
 
-### :earth_asia: I’m inspired by: Solving real-world problems through code and creativity. <br />
+### :earth_asia: **I’m inspired by:** Solving real-world problems through code and creativity. <br />
 
-### :zap: Fun fact:I can craft complex origami, solve a Rubik's Cube, and whip up delicious meals in the kitchen! <br />
+### :zap: **Fun fact:** I can craft complex origami, solve a Rubik's Cube, and whip up delicious meals in the kitchen! <br />
