@@ -2,7 +2,7 @@ Hi I am Arif
 
 <!-- Banner goes here -->
 
-### My Github Contribution
+### :chart_with_upwards_trend: My Github Contribution
 
 <hr />
 
@@ -27,11 +27,10 @@ Hi I am Arif
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
-# About Me
+# :relieved: About Me
 
-I am a MERN stack developer. <br />
-I love building web apps.<br />
-I am learning Next.js and TypeScript.<br />
-I want to create scalable solutions.<br />
-I am a web developer.<br />
-I enjoy solving problems with code.<br />
+:seedling: **I’m exploring:** Next js and TypeScript for advanced web development <br />
+:wave: **I’m looking to collaborate on:** getting a remote job or internship <br />
+:books: **I’m passionate about:** Helping people learn coding and building amazing web apps. <br />
+:earth_asia: **I’m inspired by:** Solving real-world problems through code and creativity. <br />
+:zap: **Fun fact:** I can craft complex origami, solve a Rubik's Cube, and whip up delicious meals in the kitchen! <br />
