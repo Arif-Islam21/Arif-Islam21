@@ -2,9 +2,11 @@ Hi I am Arif
 
 <!-- Banner goes here -->
 
-### My Github contribution
+### My Github Contribution
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arif-Islam21&theme=blue-green&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+<hr />
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Arif-Islam21&theme=blue-green&hide_border=true&card_width=800&card_height=200" alt="GitHub Streak" /></a>
 
 # About Me
 
