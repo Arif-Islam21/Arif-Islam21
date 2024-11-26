@@ -16,7 +16,8 @@
 
 ## :computer: My skills on MODERN Technologies
 
-<!--[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/> -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
