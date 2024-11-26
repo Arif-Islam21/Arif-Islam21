@@ -27,7 +27,7 @@ Hi I am Arif
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
-# :relieved: About Me
+# :relieved: About Me.
 
 ### :seedling: **I’m exploring:** Next js and TypeScript for advanced web development <br />
 
