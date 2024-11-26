@@ -1,6 +1,8 @@
 Hi I am Arif
 
-<!-- Banner goes here -->
+<a href="https://www.linkedin.com/in/ar-arif-903363210/">
+<img src="https://i.ibb.co.com/mCKfcQB/github.jpg" />
+</a>
 
 ### :chart_with_upwards_trend: My Github Contribution
 
