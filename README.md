@@ -1,5 +1,3 @@
-Hi I am Arif
-
 <a href="https://www.linkedin.com/in/ar-arif-903363210/">
 <img src="https://i.ibb.co.com/mCKfcQB/github.jpg" />
 </a>
@@ -40,3 +38,7 @@ Hi I am Arif
 ### :earth_asia: **I’m inspired by:** Solving real-world problems through code and creativity. <br />
 
 ### :zap: **Fun fact:** I can craft complex origami, solve a Rubik's Cube, and whip up delicious meals in the kitchen! <br />
+
+### Life advice
+
+##### Always use dark mode in Your IDE because light attracts bugs. 🐞
