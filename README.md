@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/ar-arif-903363210/">
+<a target="_blank" href="https://www.linkedin.com/in/ar-arif-903363210/">
 <img src="https://i.ibb.co.com/mCKfcQB/github.jpg" />
 </a>
 
