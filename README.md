@@ -45,6 +45,11 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
+  </a>
+</p>
 
 # :relieved: About Me.
 
