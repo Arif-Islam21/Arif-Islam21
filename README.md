@@ -35,11 +35,16 @@
     <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,firebase" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p><br/>
+</p><br/> -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=node,express,mongodb" />
+  </a>
+</p>
 
 # :relieved: About Me.
 
@@ -55,4 +60,4 @@
 
 ### Life advice
 
-##### Always use dark mode in Your IDE because _light attracts bugs. 🐞_
+#### Always use dark mode in Your IDE because _light attracts bugs. 🐞_
