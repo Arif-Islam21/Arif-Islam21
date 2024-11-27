@@ -48,7 +48,7 @@
 
 ### :earth_asia: **I’m inspired by:** Solving real-world problems through code and creativity. <br />
 
-### :zap: **Fun fact:** I can craft complex origami, solve a Rubik's Cube, and whip up delicious meals in the kitchen! <br />
+### :zap: **Fun fact:** I can craft complex origami, solve a Rubik's Cube under 3 minute, and whip up delicious meals in the kitchen! <br />
 
 ### Life advice
 
