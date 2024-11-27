@@ -16,37 +16,24 @@
 
 ## :computer: My skills on MODERN Technologies
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev) -->
-
 <p align="center">
-  <a target="_blank" href="www.linkedin.com/in/ar-arif-903363210">
+  <a target="_blank" href="https://www.linkedin.com/in/ar-arif-903363210/">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
   </a>
 </p>
 
-<!-- <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-</p> -->
 <p align="center">
-  <a target="_blank" href="www.linkedin.com/in/ar-arif-903363210">
+  <a target="_blank" href="https://www.linkedin.com/in/ar-arif-903363210/">
     <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,firebase" />
   </a>
 </p>
-<!-- <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p><br/> -->
 <p align="center">
-  <a target="_blank" href="www.linkedin.com/in/ar-arif-903363210">
+  <a target="_blank" href="https://www.linkedin.com/in/ar-arif-903363210/">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </a>
 </p>
 <p align="center">
-  <a target="_blank" href="www.linkedin.com/in/ar-arif-903363210">
+  <a target="_blank" href="https://www.linkedin.com/in/ar-arif-903363210/">
     <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
   </a>
 </p>
