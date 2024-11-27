@@ -42,7 +42,7 @@
 </p><br/> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </a>
 </p>
 
