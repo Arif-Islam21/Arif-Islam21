@@ -1,5 +1,5 @@
 <a target="_blank" href="https://www.linkedin.com/in/ar-arif-903363210/">
-<img src="https://i.ibb.co.com/mCKfcQB/github.jpg" />
+<img src="https://drive.google.com/file/d/1IpFPlV43sVejwlxjbNtL_JWbRAcc2fYl/view?usp=drivesdk" />
 </a>
 
 ### :chart_with_upwards_trend: My Github Contribution
