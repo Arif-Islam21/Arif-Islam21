@@ -52,4 +52,4 @@
 
 ### Life advice
 
-#### Always use dark mode in Your IDE because _light attracts bugs. 🐞_
+#### Always use dark mode in Your IDE because _"light attracts bugs." 🐞_
