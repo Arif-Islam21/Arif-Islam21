@@ -41,7 +41,7 @@
 
 # :relieved: About Me.
 
-## I am **Ariful Islam** from Bangladesh
+## I am _Ariful Islam_ from Bangladesh
 
 ### :seedling: **I’m exploring:** Next js and TypeScript for advanced web development <br />
 
