@@ -41,6 +41,8 @@
 
 # :relieved: About Me.
 
+# I am Arif from Bangladesh
+
 ### :seedling: **I’m exploring:** Next js and TypeScript for advanced web development <br />
 
 ### :wave: **I’m looking to collaborate on:** getting a remote job or internship <br />
