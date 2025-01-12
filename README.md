@@ -30,7 +30,7 @@
 </p>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ar-arif-903363210/">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs" />
   </a>
 </p>
 <p align="center">
