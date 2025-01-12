@@ -35,7 +35,7 @@
 </p>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ar-arif-903363210/">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,npm,yarn" />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,npm,yarn,figma,vscode" />
   </a>
 </p>
 
