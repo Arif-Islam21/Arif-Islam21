@@ -7,7 +7,6 @@
 
 <hr />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%20Arif-Islam21&theme=buefy-dark&hide_border=true&border_radius=5.7&sideLabels=EB5454&currStreakNum=EB5454)](https://git.io/streak-stats)
 
 <a href="https://github.com/Arif-Islam21"><img src="https://github-readme-streak-stats.herokuapp.com?user=Arif-Islam21&theme=blue-green&hide_border=true&card_width=800&card_height=200" alt="GitHub Streak" /></a>
 
