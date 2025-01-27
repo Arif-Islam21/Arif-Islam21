@@ -40,7 +40,7 @@
   </a>
 </p>
 
-# :relieved: About Me.
+# :relieved: About Me
 
 ### I am _Ariful Islam_ from Bangladesh
 
