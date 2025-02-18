@@ -8,7 +8,7 @@
 <hr />
 
 
-<a href="https://github.com/Arif-Islam21"><img src="https://github-readme-streak-stats.herokuapp.com?user=Arif-Islam21&theme=blue-green&hide_border=true&card_width=800&card_height=200" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arif-Islam21&theme=blue-green&hide_border=true&card_width=800&card_height=200)](https://github.com/Arif-Islam21)
 
 <!-- ![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arif-Islam21&show_icons=true&theme=tokyonight) -->
 
